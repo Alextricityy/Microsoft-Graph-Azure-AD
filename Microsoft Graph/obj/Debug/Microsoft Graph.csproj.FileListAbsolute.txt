@@ -1,0 +1,18 @@
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Microsoft Graph.exe.config
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Microsoft Graph.exe
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Microsoft Graph.pdb
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Microsoft.Graph.dll
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Microsoft.Graph.xml
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\obj\Debug\Microsoft Graph.csprojAssemblyReference.cache
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\obj\Debug\Microsoft Graph.csproj.CoreCompileInputs.cache
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\obj\Debug\Microsoft Graph.csproj.CopyComplete
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\obj\Debug\Microsoft Graph.exe
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\obj\Debug\Microsoft Graph.pdb
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\asell\source\repos\Microsoft Graph\Microsoft Graph\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
